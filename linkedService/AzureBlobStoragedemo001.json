@@ -5,11 +5,11 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"serviceEndpoint": "https://strfactory001.blob.core.windows.net/",
-			"accountKind": "StorageV2",
 			"credential": {
-				"referenceName": "credential1",
+				"referenceName": "credential2",
 				"type": "CredentialReference"
-			}
+			},
+			"accountKind": "StorageV2"
 		}
 	}
 }
