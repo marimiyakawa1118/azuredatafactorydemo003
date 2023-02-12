@@ -1,0 +1,9 @@
+{
+	"name": "factory2023demo002",
+	"location": "EastUS",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b692f2ff-7e2e-4c66-94bb-385736c4e5d7",
+		"tenantId": "02476098-c70b-4bf8-84fb-b64489500d9c"
+	}
+}

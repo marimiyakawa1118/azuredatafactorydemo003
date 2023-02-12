@@ -1,0 +1,7 @@
+{
+	"name": "sourceIntegrationRuntime",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "selfhosted run time"
+	}
+}
